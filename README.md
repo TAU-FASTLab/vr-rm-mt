@@ -39,7 +39,9 @@ Note that the server and client don't have to be two separate computers, althoug
 
 ### Installation process
 Simply clone the Docker Image as you would any other Docker image.
-
+```
+docker pull docker.ramp.eu/shop4cf/vr-rm-mt:latest
+```
 ---
 
 ## Configuration
