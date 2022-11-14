@@ -42,6 +42,11 @@ Simply clone the Docker Image as you would any other Docker image.
 ```
 docker pull docker.ramp.eu/shop4cf/vr-rm-mt:latest
 ```
+Then the container can be run.
+```
+docker run docker.ramp.eu/shop4cf/vr-rm-mt
+```
+
 ---
 
 ## Configuration
@@ -52,7 +57,7 @@ In the control panel, there is a section titled "Workpiece upload". Select a loc
 ### Scripting
 Please note that this section is only relevant __if you wish to run the application in sandbox mode.__
 
-The scripting environment can be entered after uploading a workpiece assembly by clicking the "Write sandbos instructions" button in the top of the control panel. This scripting area will have a text area, in which the user can write the script as well as a __piece map,__ displaying an image of each piece with its automatically generated name.
+The scripting environment can be entered after uploading a workpiece assembly by clicking the "Write sandbox instructions" button in the top of the control panel. This scripting area will have a text area, in which the user can write the script as well as a __piece map,__ displaying an image of each piece with its automatically generated name.
 
 Scripts are split into __actions,__ which are separated by lines with a single "@" character. An action represents a sequence of instructions for the robot to follow when the VR user presses the "next action" button on their controller.
 
