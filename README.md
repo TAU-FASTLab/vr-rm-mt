@@ -62,24 +62,25 @@ The scripting environment can be entered after uploading a workpiece assembly by
 Scripts are split into __actions,__ which are separated by lines with a single "@" character. An action represents a sequence of instructions for the robot to follow when the VR user presses the "next action" button on their controller.
 
 A script can have the following commands, each on their own line:
-- ``label <object name> <new object name>`` 
+
+- ``label <object name> <new object name>`` <br>
   - Allows giving a workpiece a new alias, which can be used in place of the automatically generated name.
   - Should generally be used in the beginning of the script.
-- ``description <description message>``
+- ``description <description message>``<br>
   - Gives a description to the action this command is used inside of.
   - This description will be displayed in the monitor in the VR environment.
-- ``join <object 1 name> <object 2 name>`` 
+- ``join <object 1 name> <object 2 name>``<br> 
   - Attaches two workpieces to each other.
   - Going forward, the workpieces will move as one
-- ``grab``
+- ``grab``<br>
   - Closes the gripper.
   - Causes the robot to grab the workpiece in its current position.
-- ``drop``
+- ``drop``<br>
   - Opens the gripper
   - Causes the robot to drop the workpiece that it's currently holding.
-- `rest <movement time>`
+- `rest <movement time>`<br>
   - Causes the robot to move to a resting position
-- `<x> <y> <z> <movement time>`
+- `<x> <y> <z> <movement time>`<br>
   - Causes the robot to move its head to the provided coordinates
 
 ---
