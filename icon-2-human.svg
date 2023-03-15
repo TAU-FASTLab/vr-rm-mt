@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1421.4547mm"
+   width="1430.4434mm"
    height="1196.5616mm"
-   viewBox="0 0 426.36985 346.27355"
+   viewBox="0 0 429.06602 346.27355"
    version="1.1"
    id="svg5"
    sodipodi:docname="icon-2-human.svg"
@@ -38,9 +38,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.074331524"
-     inkscape:cx="6578.6354"
-     inkscape:cy="2340.8641"
+     inkscape:zoom="0.11497896"
+     inkscape:cx="982.78848"
+     inkscape:cy="2078.6411"
      inkscape:window-width="1852"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -224,10 +224,10 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="bg"
-     transform="translate(44.016949,8.9043218)"><rect
+     transform="translate(44.016949,8.6691143)"><rect
        style="fill:#1b1544;fill-opacity:1;stroke:none;stroke-width:1.86991;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5.60973, 1.86991;stroke-dashoffset:0"
        id="rect3860"
-       width="426.36984"
+       width="429.06604"
        height="358.91245"
        x="201.94049"
        y="16.909767"
@@ -237,7 +237,7 @@
      id="layer1"
      style="display:none"
      sodipodi:insensitive="true"
-     transform="translate(-201.94049,-22.994007)"><path
+     transform="translate(-201.94049,-23.229214)"><path
        id="path3381"
        style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
        d="m 98.100989,22.341789 c -34.208784,0 -61.940922,26.622086 -61.940922,59.46252 0,20.096611 20.724316,32.200601 20.724316,49.856901 v 65.18104 c 0,2.52105 2.191956,4.55063 4.914946,4.55063 h 54.841611 c 2.72299,0 4.91495,-2.02958 4.91495,-4.55063 v -33.99121 c 12.90304,7.69717 25.36325,14.19452 31.02653,9.37462 12.79963,-10.89351 7.45897,-72.708716 7.45897,-90.421351 0,-32.840435 -27.73162,-59.462522 -61.940401,-59.46252 z"
@@ -248,7 +248,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="stickman"
-     transform="translate(-201.94049,-22.994007)"><path
+     transform="translate(-201.94049,-23.229214)"><path
        id="path4027"
        style="color:#000000;fill:#bfbfbf;-inkscape-stroke:none"
        class="stickman"
@@ -261,7 +261,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="headset"
-     transform="translate(-201.94049,-22.994007)"><g
+     transform="translate(-201.94049,-23.229214)"><g
        id="g369"
        transform="translate(-2.0565219e-6,-0.04349907)"
        style="stroke-dasharray:none"
@@ -311,7 +311,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="robot"
-     transform="translate(-201.94049,-22.994007)"
+     transform="translate(-201.94049,-23.229214)"
      style="fill:#1b1544;fill-opacity:1"><path
        id="rect1412"
        inkscape:transform-center-x="0.31554309"
